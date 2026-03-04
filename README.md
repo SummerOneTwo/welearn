@@ -1,6 +1,6 @@
 # WE Learn Auth Assistant
 
-基于 Python 3 的 WE Learn (微盘) 辅助脚本合集，支持账号密码与 Cookie 两种登录方式。项目使用 `uv` 来管理依赖，结构清晰并支持二次开发。
+基于 Python 3 的 WE Learn 辅助脚本合集，支持账号密码与 Cookie 两种登录方式。项目使用 `uv` 来管理依赖，结构清晰并支持二次开发。
 
 ## 功能介绍
 - **一键刷课** (`src/welearn_curriculum.py`): 交互式选择已选课的单元，自动以“满分+完成”的状态结算小试卷！支持自定义正确率。
